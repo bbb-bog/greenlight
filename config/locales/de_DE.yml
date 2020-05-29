@@ -590,3 +590,5 @@ de_DE:
     signin: "Bitte melden Sie sich an, um auf Ihr Konto zuzugreifen."
     title: Verifizierung Ihrer E-Mail-Adresse
     verification: Verifikation
+  whr:
+    test: Test-Text
